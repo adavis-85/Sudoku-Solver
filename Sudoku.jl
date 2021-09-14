@@ -28,8 +28,6 @@ for i in 1:9
   end
 end
 
-board[1:3,4:6]
-
 i=3
 k=3
 
